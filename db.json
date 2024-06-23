@@ -1,0 +1,96 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "alterego": "Bruce Wayne"
+    },
+    {
+      "id": "2",
+      "name": "Superman",
+      "alterego": "Clark Kent"
+    },
+    {
+      "id": "3",
+      "name": "Wonder Woman 1",
+      "alterego": "Princess Diana"
+    },
+    {
+      "id": "176c",
+      "name": "sss",
+      "alterego": "ssss"
+    },
+    {
+      "id": "2aeb",
+      "name": "sdsd",
+      "alterego": "ssssssss"
+    },
+    {
+      "id": "3cb9",
+      "name": "sds",
+      "alterego": "sdsdsd"
+    },
+    {
+      "id": "abbc",
+      "name": "Mohit",
+      "alterego": "Ramola"
+    },
+    {
+      "id": "41f9",
+      "name": "sasasas",
+      "alterego": "sasasaasasa"
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "Mohit"
+    },
+    {
+      "id": "2",
+      "name": "Sahil"
+    },
+    {
+      "id": "3",
+      "name": "Ankush"
+    },
+    {
+      "id": "2",
+      "name": "Bruce"
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "color": "red"
+    },
+    {
+      "id": "2",
+      "color": "green"
+    },
+    {
+      "id": "3",
+      "color": "blue"
+    },
+    {
+      "id": "4",
+      "color": "yellow"
+    },
+    {
+      "id": "5",
+      "color": "purple"
+    },
+    {
+      "id": "6",
+      "color": "brown"
+    },
+    {
+      "id": "7",
+      "color": "orange"
+    },
+    {
+      "id": "8",
+      "color": "pink"
+    }
+  ]
+}
